@@ -1,0 +1,15 @@
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.yellow {
+    color: yellow;
+}
+.hotpink {
+    color: hotpink;
+}

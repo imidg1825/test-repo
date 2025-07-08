@@ -1,0 +1,18 @@
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.underline {
+    text-decoration: underline;
+}
+.linethrough {
+    text-decoration: line-through;
+}
+.big {
+    font-size: 20px;
+}
+.small {
+    font-size: 10px;
+}
